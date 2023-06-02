@@ -1,6 +1,6 @@
 print(1, "Galin")
 print(2, 'Petya')
-print(3, 'Ivan')
+print(3)
 print(4)
 print(5)
 print(6)
